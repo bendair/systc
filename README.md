@@ -117,6 +117,10 @@ Impressive large-format timecode display:
 ### GUI Mode (`-g`)
 Professional GUI window with large timecode display and frame rate information.
 ![image](https://github.com/user-attachments/assets/e8b12d2a-5c45-4963-9aee-649be302eeda)
+```
+# Continuous GUI display starting from custom time with refresh of 50Hz
+systc.py -s 09:59:30:00 50 -c -g -r 50 
+```
 
 ## Starting Timecode Format
 
