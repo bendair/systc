@@ -116,6 +116,8 @@ Impressive large-format timecode display:
 
 ### GUI Mode (`-g`)
 Professional GUI window with large timecode display and frame rate information.
+![image](https://github.com/user-attachments/assets/faaa63d9-c67b-47d2-920c-63a203be3732)
+
 
 ## Starting Timecode Format
 
